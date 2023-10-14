@@ -23,7 +23,7 @@
 
 * [【C#】Dapperの使い方|PG-LIFE](https://pg-life.net/csharp/dapper/)
 * [【C#】DapperExtensionsの使い方|PG-LIFE](https://pg-life.net/csharp/dapperextensions/)
-* 候補となったUIライブラリ
+* 候補となったUIライブラリ  
 https://github.com/HavenDV/H.MaterialSkin/  
 https://github.com/N-a-r-w-i-n/MetroSet-UI  
 
